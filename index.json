@@ -17,6 +17,12 @@
       "title": "Inglés Vocabulario B1",
       "description": "Vocabulario básico para nivel B1.",
       "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/ingles_vocabulario_b1.zip"
+    },
+    {
+      "id": "tabla_periodica",
+      "title": "Tabla Periódica",
+      "description": "Lista de la tabla periódica de los elementos",
+      "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/tabla_periodica.zip"
     }
   ]
 }
