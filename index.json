@@ -5,6 +5,12 @@
       "title": "Inglés Vocabulario A1",
       "description": "Vocabulario básico y frases comunes para nivel A1.",
       "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/ingles_vocabulario_a1.zip"
+    },
+    {
+      "id": "ingles_vocabulario_a2",
+      "title": "Inglés Vocabulario A2",
+      "description": "Vocabulario básico y frases comunes para nivel A2.",
+      "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/ingles_vocabulario_a2.zip"
     }
   ]
 }
