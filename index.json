@@ -23,6 +23,84 @@
       "title": "Tabla Periódica",
       "description": "Lista de la tabla periódica de los elementos",
       "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/tabla_periodica.zip"
-    }
+    },
+  {
+    "id": "tablas_multiplicar",
+    "title": "Tablas de Multiplicar",
+    "description": "Práctica de las tablas de multiplicar del 1 al 12",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/tablas_multiplicar.zip"
+  },
+  {
+    "id": "alfabeto_fonetico_ingles",
+    "title": "Alfabeto Fonético Inglés",
+    "description": "Aprende el alfabeto fonético internacional en inglés",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/alfabeto_fonetico_ingles.zip"
+  },
+  {
+    "id": "capitales",
+    "title": "Capitales del Mundo",
+    "description": "Lista de capitales de países del mundo",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/capitales.zip"
+  },
+  {
+    "id": "alfabeto_cirilico",
+    "title": "Alfabeto Cirílico",
+    "description": "Aprende las letras del alfabeto cirílico",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/alfabeto_cirilico.zip"
+  },
+  {
+    "id": "alfabeto_coreano",
+    "title": "Alfabeto Coreano (Hangul)",
+    "description": "Cartas con el alfabeto coreano Hangul",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/alfabeto_coreano.zip"
+  },
+  {
+    "id": "hiragana",
+    "title": "Hiragana",
+    "description": "Sílabas del sistema de escritura japonés Hiragana",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/hiragana.zip"
+  },
+  {
+    "id": "katakana",
+    "title": "Katakana",
+    "description": "Sílabas del sistema de escritura japonés Katakana",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/katakana.zip"
+  },
+  {
+    "id": "alfabeto_arabe",
+    "title": "Alfabeto Árabe",
+    "description": "Aprende las letras del alfabeto árabe",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/alfabeto_arabe.zip"
+  },
+  {
+    "id": "alfabeto_griego",
+    "title": "Alfabeto Griego",
+    "description": "Aprende las letras del alfabeto griego clásico",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/alfabeto_griego.zip"
+  },
+  {
+    "id": "devanagari",
+    "title": "Devanagari",
+    "description": "Símbolos del sistema de escritura devanagari usado en hindi y sánscrito",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/devanagari.zip"
+  },
+  {
+    "id": "sedes_mundiales_futbol",
+    "title": "Sedes de Mundiales de Fútbol",
+    "description": "Lista de países y ciudades sede de los mundiales de fútbol",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/sedes_mundiales_futbol.zip"
+  },
+  {
+    "id": "codigo_morse",
+    "title": "Código Morse",
+    "description": "Aprende las equivalencias del código Morse",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/codigo_morse.zip"
+  },
+  {
+    "id": "dioses_olimpicos",
+    "title": "Dioses Olímpicos",
+    "description": "Lista de los principales dioses de la mitología griega",
+    "url": "https://github.com/darksertro/simplest-flashcards-decks/raw/refs/heads/main/decks/dioses_olimpicos.zip"
+  }
   ]
 }
