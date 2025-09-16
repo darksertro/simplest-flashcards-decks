@@ -1,0 +1,10 @@
+{
+  "decks": [
+    {
+      "id": "ingles_vocabulario_a1",
+      "title": "Inglés Vocabulario A1",
+      "description": "Vocabulario básico y frases comunes para nivel A1.",
+      "url": "https://raw.githubusercontent.com/darksertro/simplest-flashcards-decks/main/decks/ingles_vocabulario_a1.zip"
+    }
+  ]
+}
